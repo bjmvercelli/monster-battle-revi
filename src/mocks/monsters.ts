@@ -3,7 +3,7 @@ import kayn from "../assets/kayn.png";
 import lee from "../assets/lee.png";
 import rammus from "../assets/rammus.png";
 import yasuo from "../assets/yasuo.png";
-import type { Monster } from "../types"; // ou Champion, se quiser renomear depois
+import type { Monster } from "../types";
 
 export const monstersMock: Monster[] = [
   {
