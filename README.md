@@ -83,8 +83,8 @@ while (firstSelectedMonster.hp > 0 && secondSelectedMonster.hp > 0) {
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/batalha-campeoes.git
-cd batalha-campeoes
+git clone https://github.com/bjmvercelli/monster-battle-revi.git
+cd monster-battle-revi
 
 # 2. Instale as dependências
 yarn
